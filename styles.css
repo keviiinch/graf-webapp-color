@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.color-box {
+    width: 150px;
+    height: 150px;
+    border: 2px solid #000;
+    margin: 20px auto;
+    background-color: #000;
+}
+
+.sliders {
+    max-width: 300px;
+    margin: auto;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
